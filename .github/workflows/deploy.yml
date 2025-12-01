@@ -50,8 +50,8 @@ jobs:
                   extended: true
 
             - name: Build
-              run: hugo --minify --gc
-
+              run: hugo --config hugo.yaml --minify --gc
+              
             - name: Deploy 🚀
               uses: JamesIves/github-pages-deploy-action@4.1.4
               with:
