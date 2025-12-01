@@ -1,0 +1,26 @@
+# Hugo build output
+public/
+resources/_gen/
+
+# Hugo lock file
+.hugo_build.lock
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# Node modules (if using npm for asset processing)
+node_modules/
+
+# Environment files
+.env
+.env.local
