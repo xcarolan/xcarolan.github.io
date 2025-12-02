@@ -10,11 +10,9 @@ tags:
   - python
   - dev
   - script
-date:
-  created: 2024-01-23T16:47:00+01:00
-  updated: 2024-02-06T10:09:40+01:00
 share: true
 comments: true
+date: 2025-12-01T19:42:00
 ---
 
 # How I Reverse Engineered Daylio Backup to Allow for Csv File Importing
