@@ -12,7 +12,7 @@ tags:
   - script
 share: true
 comments: true
-date: 2025-12-01T19:42:00
+date: 2025-12-01T19:50:00
 ---
 
 # How I Reverse Engineered Daylio Backup to Allow for Csv File Importing
