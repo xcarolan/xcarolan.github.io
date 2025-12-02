@@ -13,6 +13,7 @@ tags:
 share: true
 comments: true
 date: 2025-12-01T19:50:00
+category: books
 ---
 
 # How I Reverse Engineered Daylio Backup to Allow for Csv File Importing
