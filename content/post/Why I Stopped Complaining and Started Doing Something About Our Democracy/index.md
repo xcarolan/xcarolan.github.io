@@ -3,7 +3,7 @@ author = "Sylvester Carolan"
 title = "Why I Stopped Complaining and Started Doing Something About Our democracy"
 date = "2025-12-05T17:34:00-05:00"
 description = "Do Something"
-tags = to[
+tags =[
     "Politics",
     "Democracy",
     "Voting",
